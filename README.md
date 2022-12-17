@@ -1,5 +1,5 @@
 # PG-project
-Created Frontend of a sample website web named PGlife(Paying guest booking website) using HTML,CSS,Bootstrap,Javascript as the coding languages.
+Created Frontend of a sample website web named PGlife(Paying Guest booking website)
 Language stack:
 1)HTML
 2)CSS
